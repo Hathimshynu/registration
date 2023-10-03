@@ -1,0 +1,329 @@
+    /*Responsive css for USDT TRC20 Wallet*/
+    
+    @media screen and (min-width:400px) and (max-width:441px){
+     .copy-text input.text {
+        width: 254px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+    
+    @media screen and (min-width:442px) and (max-width:500px){
+     .copy-text input.text {
+        width: 289px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+    
+    @media screen and (min-width:501px) and (max-width:514px){
+     .copy-text input.text {
+        width: 298px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+    
+    @media screen and (min-width:515px) and (max-width:535px){
+     .copy-text input.text {
+        width: 310px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+    
+    @media screen and (min-width:536px) and (max-width:554px){
+     .copy-text input.text {
+        width: 330px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+    
+     @media screen and (min-width:555px) and (max-width:599px){
+     .copy-text input.text {
+        width: 350px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+    
+    @media screen and (min-width:600px) and (max-width:699px){
+     .copy-text input.text {
+        width: 396px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+      @media screen and (min-width:700px) and (max-width:799px){
+     .copy-text input.text {
+        width: 497px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+      @media screen and (min-width:800px) and (max-width:899px){
+     .copy-text input.text {
+        width: 523px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+       @media screen and (min-width:900px) and (max-width:959px){
+     .copy-text input.text {
+        width: 623px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+       @media screen and (min-width:960px) and (max-width:979px){
+     .copy-text input.text {
+        width: 679px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+    
+      @media screen and (min-width:980px) and (max-width:991px){
+     .copy-text input.text {
+        width: 707px !important;
+    }
+    .copy-text{
+        width: 100% !important;
+    }
+
+ }
+    
+     @media screen and (min-width:992px) and (max-width:1024px){
+     .copy-text input.text {
+        width: 338px !important;
+    }
+    .copy-text{
+        width: 352px !important;
+    }
+
+ }
+  @media screen and (min-width:1025px) and (max-width:1029px){
+     .copy-text input.text {
+        width: 305px !important;
+    }
+    .copy-text{
+        width: 290px !important;
+    }
+
+ }
+    
+     @media screen and (min-width:1030px) and (max-width:1079px){
+     .copy-text input.text {
+        width: 317px !important;
+    }
+    .copy-text{
+        width: 294px !important;
+    }
+
+ }
+    
+     @media screen and (min-width:1080px) and (max-width:1130px){
+     .copy-text input.text {
+        width: 322px !important;
+    }
+    .copy-text{
+        width: 321px !important;
+    }
+
+ }
+    
+    @media screen and (min-width:1131px) and (max-width:1199px){
+     .copy-text input.text {
+        width: 329px !important;
+    }
+    .copy-text{
+        width: 345px !important;
+    }
+
+ }
+    
+ @media screen and (min-width:1200px) and (max-width:1228px){
+     .copy-text input.text {
+        width: 349px !important;
+    }
+    .copy-text{
+        width: 377px !important;
+    }
+
+ }
+ 
+ @media screen and (min-width:1229px) and (max-width:1247px){
+     .copy-text input.text {
+        width: 355px !important;
+    }
+    .copy-text{
+        width: 396px !important;
+    }
+
+ }
+ 
+ @media screen and (min-width:1248px) and (max-width:1262px){
+     .copy-text input.text {
+        width: 370px !important;
+    }
+    .copy-text{
+        width: 396px !important;
+    }
+
+ }
+ 
+ @media screen and (min-width:1263px) and (max-width:1286px){
+     .copy-text input.text {
+        width: 385px !important;
+    }
+    .copy-text{
+        width: 404px !important;
+    }
+
+ }
+ 
+ @media screen and (min-width:1287px) and (max-width:1308px){
+     .copy-text input.text {
+        width: 395px !important;
+    }
+    .copy-text{
+        width: 409px !important;
+    }
+
+ }
+ 
+ @media screen and (min-width:1309px) and (max-width:1331px){
+     .copy-text input.text {
+        width: 405px !important;
+    }
+    .copy-text{
+        width: 420px !important;
+    }
+
+ }
+ 
+ @media screen and (min-width:1331px) and (max-width:1345px){
+     .copy-text input.text {
+        width: 415px !important;
+    }
+    .copy-text{
+        width: 426px !important;
+    }
+
+ }
+ 
+ @media screen and (min-width:1346px) and (max-width:1379px){
+     .copy-text input.text {
+        width: 425px !important;
+    }
+    .copy-text{
+        width: 443px !important;
+    }
+
+ }
+ 
+ @media screen and (max-width:1379px){
+    .trc-qrcode{
+        width:100% !important;
+    }
+ }
+/* @media (min-width: 992px){*/
+/*.trc-qrcode {*/
+/*      width:100% !important;*/
+/*  }*/
+/*}*/
+ 
+ @media screen and (min-width:1380px) and (max-width:1460px){
+    .copy-text input.text {
+        width: 275px !important;
+    }
+    .copy-text{
+        width: 305px !important;
+    }
+}
+    
+    @media screen and (min-width:1461px) and (max-width:1510px){
+    .copy-text input.text {
+        width: 285px !important;
+    }
+    .copy-text{
+        width: 335px !important;
+    }
+}
+
+ @media screen and (min-width:1511px) and (max-width:1538px){
+    .copy-text input.text {
+        width: 309px !important;
+    }
+    .copy-text{
+        width: 346px !important;
+    }
+}
+
+ @media screen and (min-width:1539px) and (max-width:1600px){
+    .copy-text input.text {
+        width: 330px !important;
+    }
+    .copy-text{
+        width: 359px !important;
+    }
+}
+
+@media screen and (min-width:1601px) and (max-width:1700px){
+    .copy-text input.text {
+        width: 350px !important;
+    }
+    .copy-text{
+        width: 378px !important;
+    }
+}
+
+@media screen and (min-width:1701px) and (max-width:1800px){
+    .copy-text input.text {
+        width: 380px !important;
+    }
+    .copy-text{
+        width: 412px !important;
+    }
+}
+
+@media screen and (min-width:1800px) and (max-width:2000px){
+    .copy-text input.text {
+        width: 423px !important;
+    }
+    .copy-text{
+        width: 451px !important;
+    }
+}
+
+@media screen and (min-width:2000px){
+    .copy-text input.text {
+        width: 506px !important;
+    }
+    .copy-text{
+        width: 532px !important;
+    }
+}

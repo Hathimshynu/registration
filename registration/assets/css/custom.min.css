@@ -1,0 +1,248 @@
+
+/*# sourceMappingURL=custom.min.css.map */
+
+ svg.feather.feather-share-2.icon-dual {
+      rotate: 90deg!important;
+      }
+       .simplebar-content .nav-item:hover{
+          background-image: linear-gradient(90deg, #ff0000 -10%, #ff0000 100%);
+    border-top-right-radius: 30px !important;
+    border-bottom-right-radius: 30px !important;
+      }
+      .nav-link:hover{
+          color:white !important;
+      }
+       .navbar-nav .nav-item{
+          width:96%;
+      }
+      
+      /*Custom CSS for User Panel Nav*/
+      
+      .d-nav:hover .d-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+       .prof-nav:hover .prof-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+       .deposit-nav:hover .deposit-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+       .myacc-nav:hover .myacc-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+      .ibportal-nav:hover .ibportal-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+       .ibact-nav:hover .ibact-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+      .tools-nav:hover .tools-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+        .bankdet-nav:hover .bankdet-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+      .dephistory-nav:hover .dephistory-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+         .withdraw-nav:hover .withdraw-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+        .resetp-nav:hover .resetp-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+      
+        .news-nav:hover .news-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+        .logout-nav:hover .logout-icon{
+            -webkit-transform: rotate(360deg);
+            -webkit-transition-duration: 1s;
+            -webkit-transition-delay: now;
+            -webkit-animation-timing-function: linear;
+            -webkit-animation-iteration-count: infinite;
+             margin-right:4px;
+      }
+      
+     /*Custom CSS for User Panel Nav Ends*/
+     
+      /*Custom CSS for Admin Panel Nav*/
+      .a-d-nav:hover .a-d-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+       .a-u-nav:hover .a-u-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+      
+      .a-ibmanagement-nav:hover .a-ibmanagement-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+        .a-kyc-nav:hover .a-kyc-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+        .a-client-nav:hover .a-client-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+        .a-withdraw-nav:hover .a-withdraw-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+        .a-transfer-nav:hover .a-transfer-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+        .a-news-nav:hover .a-news-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+       .a-notification-nav:hover .a-notification-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+      
+       .a-bulkmail-nav:hover .a-bulkmail-icon{
+          transform:scale(1.3);
+          transition:0.3s ease all;
+          margin-right:5px;
+      }
+      .a-logout-nav:hover .a-logout-icon{
+           -webkit-transform: rotate(360deg);
+    -webkit-transition-duration: 1s;
+    -webkit-transition-delay: now;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+     margin-right:4px;
+      }
+      /*Custom CSS for Admin Panel Nav Ends*/
+     
+     
+      .navbar-menu .navbar-nav .nav-sm .nav-link:before{
+          display:none !important;
+          width: 0 !important;
+          height:0 !important;
+      }
+      .navbar-menu .navbar-nav .nav-sm .nav-link {
+          padding-left: 10px !important;
+      }
+      .arrow-icon{
+          font-size:12px !important;
+      }
+      
+      .dropmenu-container:hover{
+          border:1px solid #20604f !important;
+          border-left:none !important;
+          transform:0.5s ease-in-out;
+      }
+      
+      /*Registration page css*/
+      
+        .nav-pills-clients .nav-link.inactive-client.active {
+    
+   background-color: #ff0000 !important;
+background-image: linear-gradient(270deg, #ff0000 0%, #ff0000 50%, #ff0000 100%);
+
+
+    transition:0.2s ease all !important;
+}
+.nav-pills-clients .nav-link.active-client{
+    background-color: #fff !important;
+    border:1px solid #00b074 !important;
+}
+.nav-pills-clients .nav-link.inactive-client{
+    background-color: #fff !important;
+    border:1px solid #ff0000 !important;
+}
+.nav-pills-clients .nav-link.active-client.active {
+    
+   background-color: #00b074 !important;
+background-image: linear-gradient(270deg, #00b074 0%, #00b074 50%, #00b074 100%);
+
+
+    transition:0.2s ease all !important;
+}
+.clients-nav li .active-client::before {
+    background-color: #00b074 !important;
+    background-image: linear-gradient(252deg, #00b074 0%, #00b074 20%, #00b074 100%) !important;
+    transition:0.2s ease all !important;
+}
+.clients-nav li .inactive-client::before {
+    background-color: #ff0000 !important;
+    background-image: linear-gradient(252deg, #ff0000 0%, #ff0000 20%, #ff0000 100%) !important;
+    transition:0.2s ease all !important;
+}
+.main-ib-tab{
+    padding:10px;
+}
+.card-bg-ib{
+   background-color: #01030a;
+background-image: linear-gradient(52deg, #01030a 0%, #100c0a 10%, #fe8e4c 66%, #fe8e4c 100%);
+
+}
+.ib-bg-avatar .bg-soft-success {
+    border-radius: 50% !important;
+    background-color: rgb(255 255 255 / 31%)!important;
+}
+
+
+/*Reset Password Page*/
+  .reset-pwd-tab:hover{
+       color:black !important;
+   }
+   .active.reset-pwd-tab:hover{
+       color:#ffff !important;
+   }
+   .reset-pwd-card-header{
+       background-color: #02090c;
+background-image: linear-gradient(90deg, #ff0000 0%, #ff0000 33%, #ff0000 66%, #ff0000 100%);
+}
+
+   .reset-pwd-card{
+       border:1px solid #20604f !important;
+   }
+   
+   
+   
+   /*CSS FOR NAVBAR*/
+   
+   :is([data-layout=vertical],[data-layout=semibox])[data-sidebar=dark] .navbar-menu {
+    background: #20604f !important;
+    border-right: 1px solid #20604f !important;
+}

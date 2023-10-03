@@ -1,0 +1,216 @@
+.col-sm-12 {
+    overflow: auto;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: var(--vz-nav-pills-link-active-color);
+    background-color: #ff0000 !important;
+}
+.animation-nav li a::before{
+    background-color: #20604f !important;
+}
+
+/* CSS for Social media icons */
+
+.social-container {
+    margin: 60px auto 0px auto;
+    text-align: center;
+}
+.social-container h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #212121;
+    letter-spacing: 3px;
+}
+.social-container h1 span {
+    display: inline-block;
+}
+.social-container h1 span:before, .container h1 span:after {
+    content: "";
+    display: block;
+    width: 34px;
+    height: 2px;
+    background-color: #212121;
+    margin: 0px 0px 0px 2px;
+}
+.effect {
+    width: 100%;
+}
+.effect h2 {
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+.effect:nth-child(2) {
+    margin-top: 50px;
+}
+.effect:nth-child(2n+1) {
+    background-color: #fff;
+}
+.effect:nth-child(2n+1) h2 {
+    color: #212121;
+}
+.effect .buttons {
+    margin-top: 50px;
+    justify-content: center;
+}
+@media screen and (min-width:992px){
+    .effect .buttons{
+        padding:0 50px !important;
+    }
+}
+.effect a:last-child {
+    margin-right: 0px;
+}
+
+.effect a {
+    text-decoration: none !important;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-right: 20px;
+    font-size: 25px;
+    overflow: hidden;
+    position: relative;
+}
+.effect a i {
+    position: relative;
+    z-index: 3;
+}
+.effect a.fb {
+    background-color: #3b5998;
+}
+.effect a.whatsapp {
+    background-color: #1AD03F;
+}
+.effect a.tw {
+    background-color: #00aced;
+}
+.effect a.g-plus {
+    background-color: #dd4b39;
+}
+.effect a.dribbble {
+    background-color: #ea4c89;
+}
+.effect a.pinterest {
+    background-color: #cb2027;
+}
+.effect a.insta {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
+.effect a.youtube {
+    background-color: #FF0000;
+}
+.effect a.in {
+    background-color: #007bb6;
+}
+.effect a.vimeo {
+    background-color: #1ab7ea;
+}
+.effect.aeneas a {
+    transition: transform 0.4s linear 0s, border-top-left-radius 0.1s linear 0s, border-top-right-radius 0.1s linear 0.1s, border-bottom-right-radius 0.1s linear 0.2s, border-bottom-left-radius 0.1s linear 0.3s;
+}
+.effect.aeneas a i {
+    transition: transform 0.4s linear 0s;
+}
+.effect.aeneas a:hover {
+    transform: rotate(360deg);
+    border-radius: 50%;
+}
+.effect.aeneas a:hover i {
+    transform: rotate(-360deg);
+}
+.effect.jaques a {
+    transition: border-top-left-radius 0.1s linear 0s, border-top-right-radius 0.1s linear 0.1s, border-bottom-right-radius 0.1s linear 0.2s, border-bottom-left-radius 0.1s linear 0.3s;
+}
+.effect.jaques a:hover {
+    border-radius: 50%;
+}
+
+/* Style for Copy Text to Clipboard */
+
+.label {
+	padding: 10px;
+	font-size: 18px;
+	color: #111;
+}
+.container-copy{
+    width: 100% !important;
+}
+.copy-text {
+	position: relative;
+	padding: 10px;
+	background: #fff;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	display: flex;
+}
+.copy-text input.text {
+    width:100% !important;
+	/* padding: 10px; */
+	font-size: 18px;
+	color: #20604f;
+	border: none;
+	outline: none;
+}
+.copy-text button {
+	padding: 10px;
+	background: #5784f5;
+	color: #fff;
+	font-size: 18px;
+	border: none;
+	outline: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.copy-text button:active {
+	background: #ff0000;
+}
+.copy-text button:before {
+	content: "Copied";
+	position: absolute;
+	top: -45px;
+	right: 0px;
+	background: #ff0000;
+	padding: 8px 10px;
+	border-radius: 20px;
+	font-size: 15px;
+	display: none;
+}
+.copy-text button:after {
+	content: "";
+	position: absolute;
+	top: -20px;
+	right: 25px;
+	width: 10px;
+	height: 10px;
+	background: #ff0000;
+	transform: rotate(45deg);
+	display: none;
+}
+.copy-text.active button:before,
+.copy-text.active button:after {
+	display: block;
+}
+
+/* Border Animation */
+.gradient-border {
+    border:3px solid transparent;
+    background: linear-gradient(white, white) padding-box, linear-gradient(to right, #20604f, #ff0000) border-box;
+    }
+    .copy-text button{
+        background-image: linear-gradient(259deg, #20604f 0%, #20604f 50%, #20604f 100%);
+        font-size: 11px;
+        padding: 9px;
+    }
+    .copy-icon{
+        font-size: 17px;
+    }
